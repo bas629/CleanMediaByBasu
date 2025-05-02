@@ -49,7 +49,4 @@ Atteched in our on DataBase(MongoDB) and cloundniary sever
 
 
 
-Back
-cd client
-npm install
-npm start
+
