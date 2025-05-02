@@ -35,14 +35,14 @@ Clean Media is a social media platform built with the MERN (MongoDB, Express.js,
 - MongoDB installed and running
 
 FrontEnd 
-cd frontEnd
-npm install
-npm start
+-cd frontEnd
+-npm install
+-npm start
 
 BackEnd
-cd Backend
-npm install
-npm run dev
+-cd Backend
+-npm install
+-npm run dev
 
 Atteched in our on DataBase(MongoDB) and cloundniary sever 
 
