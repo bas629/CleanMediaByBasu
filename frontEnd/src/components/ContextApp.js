@@ -20,9 +20,7 @@ export default function AppContextProvider({ children }) {
   const [ultraPrivateFriend, setUltraPrivateFriend] = useState([]);
 
   const navigate = useNavigate();
-  // const BASE_URL = "https://cleanmedias-com-7.onrender.com";
-//  const BASE_URL = "https://cleanmediamajor.onrender.com";
-//  const BASE_URL = "https://clean-media-origin.onrender.com";
+
  
   const BASE_URL = "http://localhost:5000";
   // Function to convert date to a unique string
